@@ -1,2 +1,2 @@
 # meg-an
-MEG MVPA-based analysis.
+MEG SVM-based MVPA analysis, coded in Python (MNE-Python, sklearn).
